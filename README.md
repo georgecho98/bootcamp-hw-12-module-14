@@ -1,9 +1,9 @@
-# Karplan Board  
+# Carkplan pan board
 
 ## Description
     A Super fast candidate search engine can find the right guy or girl for you. It can save the candidate or run the next guy. Thanks for viewing. 
     
-    Render deployment: 
+    Render deployment: https://carkplan-pan-board.onrender.com
     Repository: https://github.com/georgecho98/bootcamp-hw-12-module-14
 
     
@@ -11,7 +11,7 @@
 1. [Installation](#installation)
 2. [License](#license)
 3. [Credit](#credit)
-4. [Tests](#tests)
+4. [Usage](#Usage)
 5. [Questions](#questions)
 
 
@@ -19,6 +19,7 @@
     
     Download the repostary. Set your github JWT code in the .env file. 
     Then follow the following step: npm install,npm run build, npm run seed,  npm run start.
+
     Place your .env file in the server folder. and input your postgres url and JWT token in there.
     For the development version: npm run dev
 
@@ -28,8 +29,20 @@
 ## Credit
     Vite, react, typscript, API, JWT
 
-## Tests
-    npm run test
+## Usage
+   Frontpagr
+<p>
+<img src = "./readmepic/1.JPG" height = 60% width = 60%></p>
+
+login page
+<p>
+<img src = "./readmepic/2.JPG" height = 60% width = 60%></p>
+
+Board post
+<p><img src = "./readmepic/3.JPG" height = 60% width = 60%></p>
+
+Create ticket
+<p><img src = "./readmepic/4.JPG" height = 60% width = 60%></p>
 
 ## Questions
     
