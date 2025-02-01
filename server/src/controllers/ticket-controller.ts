@@ -14,6 +14,7 @@ export const getAllTickets = async (_req: Request, res: Response) => {
         },
       ],
     });
+    
     res.json(tickets);
   } catch (error: any) {
     res.status(500).json({ message: error.message });
