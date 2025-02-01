@@ -1,7 +1,7 @@
 # Carkplan pan board
 
 ## Description
-    A Super fast candidate search engine can find the right guy or girl for you. It can save the candidate or run the next guy. Thanks for viewing. 
+    Carkplan pan board with JWT token to protect your password. Data is saved at postgresSQL. Login to input new board post, to do list, or modify the status. Thanks for viewing. 
     
     Render deployment: https://carkplan-pan-board.onrender.com
     Repository: https://github.com/georgecho98/bootcamp-hw-12-module-14
@@ -17,8 +17,7 @@
 
 ## Installation 
     
-    Download the repostary. Set your github JWT code in the .env file. 
-    Then follow the following step: npm install,npm run build, npm run seed,  npm run start.
+    Download the repostary. Then follow the following step: npm install, npm run build, npm run seed,  npm run start.
 
     Place your .env file in the server folder. and input your postgres url and JWT token in there.
     For the development version: npm run dev
